@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Divyanshu Vishwash 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:2563eb&text=Divyanshu%20Vishwash&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Divyanshu Vishwash">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Divyanshu+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Learning+Data+Engineering+%26+AI;Building+Projects+One+Commit+at+a+Time" alt="Typing animation">
+</p>
 
 <p align="center">
   <b>B.Tech Computer Science student at Pranveer Singh Institute of Technology, Kanpur</b><br>
